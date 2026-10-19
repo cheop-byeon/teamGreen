@@ -18,7 +18,7 @@ The app now shows the money directly. Over the same 28 days, baking less saves 1
 
 Be honest about where the money comes from. A large part of the saving is that owners stop baking 20 percent extra "just in case", and they only dare to do that because the app covers the risk at every step. First, the plan uses a weather-aware forecast and lets the owner pick a goal, balancing money and waste, so they trust a smaller extra. Second, if they still bake too much, the Inventory page suggests discounts as use-by approaches. Third, whatever is left goes into giveaway bags or to a food bank instead of the bin. So the message is: cut your safety buffer without the risk.
 
-## 5. Month one halves your waste. After that, we stop it creeping back.
+## 5. Month one cuts your waste by three quarters. After that, we stop it creeping back.
 
 The fair objection: after a few months the owner has learned the routine, so why keep paying? Our answer is that what they learned in month one stops being right. Seasons, holidays, weather, a new café nearby, a price increase or a new product all change demand, while the owner's habits stay the same. Without feedback, people slide back to baking extra "just in case". The app keeps re-learning from new sales and keeps the waste from creeping back.
 

@@ -14,6 +14,7 @@ From that page the deck can be downloaded as PowerPoint or PDF.
 
 | File | What it is |
 |---|---|
+| `teamGreen-Why-Stores-Choose-Us.pdf` | The whole deck as a PDF (11 pages, 16:9), no speaker notes |
 | `speaker-notes.md` | Slide titles and what to say, easiest to read on GitHub |
 | `deck.json` | Slide order, sections and fonts |
 | `slides/<id>.html` | One slide each (1920×1080, inline styles, speaker notes in `<aside>`) |
