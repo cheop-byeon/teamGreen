@@ -1,0 +1,27 @@
+<section id="rai3" data-transition="fade" style="background:#FAF7F0;color:#1F2A24;font-family:'Nunito Sans', Arial, sans-serif;padding:128px 128px 160px;display:flex;flex-direction:column;gap:40px">
+<p style="font-size:24px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:#2E7D5B">Question 3 · Can we trust it?</p>
+<h2 style="font-family:'Bitter', Georgia, serif;font-size:72px;font-weight:700;line-height:1.1;color:#14382B">Known gaps, and how we close them</h2>
+<div style="display:flex;flex-direction:row;gap:32px">
+<div style="flex:1;display:flex;flex-direction:column;gap:16px;background:#FFFDF8;border:2px solid #E2DCCD;border-radius:24px;padding:40px">
+<x-icon name="Warning" style="color:#9A5B0A;width:48px;height:48px"></x-icon>
+<h3 style="font-family:'Bitter', Georgia, serif;font-size:36px;font-weight:700;color:#14382B">Bags vs. pickup time</h3>
+<p style="font-size:28px;color:#1F2A24">Bags can hold items that expire before pickup.</p>
+<p style="font-size:28px;color:#2E7D5B"><b>Fix:</b> only bag items still safe at pickup.</p>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:16px;background:#FFFDF8;border:2px solid #E2DCCD;border-radius:24px;padding:40px">
+<x-icon name="Clock" style="color:#9A5B0A;width:48px;height:48px"></x-icon>
+<h3 style="font-family:'Bitter', Georgia, serif;font-size:36px;font-weight:700;color:#14382B">Selling hours</h3>
+<p style="font-size:28px;color:#1F2A24">The countdown includes closed hours, so some discounts are too small.</p>
+<p style="font-size:28px;color:#2E7D5B"><b>Fix:</b> count opening hours only.</p>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;gap:16px;background:#FFFDF8;border:2px solid #E2DCCD;border-radius:24px;padding:40px">
+<x-icon name="CheckCircle" style="color:#9A5B0A;width:48px;height:48px"></x-icon>
+<h3 style="font-family:'Bitter', Georgia, serif;font-size:36px;font-weight:700;color:#14382B">Manual expiry check</h3>
+<p style="font-size:28px;color:#1F2A24">End of day relies on staff ticking a “use-by passed” box.</p>
+<p style="font-size:28px;color:#2E7D5B"><b>Fix:</b> fill it in from the inventory.</p>
+</div>
+</div>
+<p style="font-size:28px;color:#4A5248"><b>Next guardrails:</b> cap changes at ±25% unless the owner confirms, flag low-confidence days, keep an audit log.</p>
+<p style="position:absolute;right:128px;bottom:64px;width:120px;font-size:24px;color:#6B7268;text-align:right">10</p>
+<aside>We would rather name our gaps than have a judge find them. One: at 14:00 the app can put items with a 15:00 or 16:00 use-by into a giveaway bag, while surplus-app bags are usually picked up near closing; the fix is to only bag items still within use-by at pickup. Two: the "selling time left" countdown counts hours when the shop is closed, so some discounts are smaller than they should be; the fix is to count opening hours only. Three: the end-of-day page relies on staff ticking a "use-by passed" box; it should come from the inventory data instead. For a real product we would also cap how far a suggestion can move from last week unless the owner confirms, flag low-confidence days such as holidays or new products, and keep an audit log of what was suggested and what the owner decided. Because a human decides and there is no personal data, the app is likely low risk under the EU AI Act, but confirm that before claiming it.</aside>
+</section>

@@ -72,6 +72,8 @@ teamGreen/
 │   ├── end-of-day/      ← Leftover handling
 │   ├── impact/          ← Backtest results
 │   └── limitations/     ← Limitations
+├── docs/
+│   └── pitch/           ← pitch deck sources and speaker notes
 └── lib/
     ├── bakery.ts        ← products, synthetic sales data, forecast, backtest
     └── inventory.ts     ← expiry rules, discounts, bag packing

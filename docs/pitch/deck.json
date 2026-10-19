@@ -1,0 +1,19 @@
+{
+  "v": 4,
+  "createdOnFiles": { "v": 1, "at": "2026-10-19T15:10:00Z" },
+  "lists": "css",
+  "title": "teamGreen: Why Stores Choose Us",
+  "order": ["cover", "money1", "money2", "money3", "long1", "long2", "long3", "rai1", "rai2", "rai3", "close"],
+  "sections": {
+    "s1": { "description": "Opening: the three questions stores ask", "start": "cover" },
+    "s2": { "description": "Question 1: the app saves more money than it costs", "start": "money1" },
+    "s3": { "description": "Question 2: why stores keep paying in the long run", "start": "long1" },
+    "s4": { "description": "Question 3: data security and guardrails", "start": "rai1" },
+    "s5": { "description": "Close: the pilot offer", "start": "close" }
+  },
+  "faces": {
+    "bitter": { "family": "Bitter", "href": "https://fonts.googleapis.com/css2?family=Bitter:wght@400..800&display=swap" },
+    "nunito-sans": { "family": "Nunito Sans", "href": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap" }
+  },
+  "designSystems": []
+}
