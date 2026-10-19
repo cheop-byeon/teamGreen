@@ -4,7 +4,7 @@ Generated from the slide files in `slides/`.
 
 ## 1. Bake what you’ll sell
 
-We built an app that helps a small bakery bake what it will actually sell, then sell or give away what is left before it becomes waste. When we talk to stores they ask three things: why should I pay for this, why would I keep paying once I have learned the routine, and can I trust it with my data and my food-safety responsibility? This deck answers those three questions using numbers from our own app.
+We are Team Green: Ruhit Rafian Prinon, Rizve Hasan, Jie Bian and Anne-Kristine, in the AI for Reducing Food Waste challenge. We built simple, explainable bake planning that helps a small bakery bake what it will actually sell, then sell or give away what is left before it becomes waste. The AI suggests; the owner always decides. When we talk to stores they ask three things: why should I pay for this, why would I keep paying once I have learned the routine, and can I trust it with my data and my food-safety responsibility? The rest of this deck answers those three questions using numbers from our own app.
 
 ## 2. 78% less food in the bin
 
