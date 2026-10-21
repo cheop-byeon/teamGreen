@@ -112,11 +112,12 @@ The hackathon runs only four hours (13:00–17:00), so keep it simple:
 
 ## Team
 
-| GitHub | Role |
-|---|---|
-| [@cheop-byeon](https://github.com/cheop-byeon) | _TBD_ |
-| [@RizveOve](https://github.com/RizveOve) | _TBD_ |
-| [@ruhitrafian66](https://github.com/ruhitrafian66) | _TBD_ |
+| Name | GitHub | Role |
+|---|---|---|
+| Ruhit Rafian Prinon | [@ruhitrafian66](https://github.com/ruhitrafian66) | Builder |
+| Rizve Hasan | [@RizveOve](https://github.com/RizveOve) | Builder |
+| Jie Bian | [@cheop-byeon](https://github.com/cheop-byeon) | Builder |
+| Anne-Kristine Tischendorf | — | Collaborator |
 
 ## Acknowledgements
 
