@@ -117,7 +117,7 @@ The hackathon runs only four hours (13:00–17:00), so keep it simple:
 | Ruhit Rafian Prinon | [@ruhitrafian66](https://github.com/ruhitrafian66) | Builder |
 | Rizve Hasan | [@RizveOve](https://github.com/RizveOve) | Builder |
 | Jie Bian | [@cheop-byeon](https://github.com/cheop-byeon) | Builder |
-| Anne-Kristine Tischendorf | — | Collaborator |
+| Anne-Kristine | — | Collaborator |
 
 ## Acknowledgements
 
